@@ -34,7 +34,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sanga78&show_icons=true&line_height=29&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="Kelvin Kipkosgei" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanga78&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanga78&theme=dark&hide_border=true)<br/>
 
 </div>
 
