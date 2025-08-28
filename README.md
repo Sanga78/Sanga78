@@ -7,7 +7,7 @@
 
 > 📫 How to reach me
 > check my social on the profile and
-> for more of my work check out **[Sanga78.github.io](https://sanga78.github.io/kelvin-kipkosgei/)**
+> for more of my work check out **[Kelvin Kipkosgei](https://sanga78.github.io/kelvin-kipkosgei/)**
 
 # 💻 **Tech Stack:**
 
