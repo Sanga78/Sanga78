@@ -13,7 +13,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![React](https://img.shields.io/badge/react-%23276DC3.svg?style=plastic&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
