@@ -7,13 +7,13 @@
 
 > 📫 How to reach me
 > check my social on the profile and
-> for more of my work check out **[Kelvin Kipkosgei Portfolio](https://sanga78.github.io/kelvin-kipkosgei/)**
+> for more of my work check out **[Sanga78.github.io](https://sanga78.github.io/kelvin-kipkosgei/)**
 
 # 💻 **Tech Stack:**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%23276DC3.svg?style=plastic&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
@@ -27,11 +27,14 @@
 # **GitHub Stats:**
 
 </div>
+
+<h2 align="center">GitHub Stats:</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanga78&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kelvin Kipkosgei" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sanga78&show_icons=true&line_height=29&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="Kelvin Kipkosgei" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanga78&theme=dark&hide_border=true)<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanga78&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
 </div>
 
