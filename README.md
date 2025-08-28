@@ -19,8 +19,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![Matplotlip](https://img.shields.io/badge/Mp-matplotlib%20-green)
-![Matplotlip](https://img.shields.io/badge/git.svg)
 
 <br/>
 
